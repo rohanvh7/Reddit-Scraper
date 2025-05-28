@@ -1,0 +1,10 @@
+Application ID : Fh96ELNF9Kf8q25IF6_Arg
+Applicaton_Secret : ZPbZXHajAeoLy5UsiD2MUOOtMQqu7g
+
+curl -X POST -d 'grant_type=password&username=Curious-Cricket-4109&password=xkh*6acyY7th@kg@Kdjy' --user 'Fh96ELNF9Kf8q25IF6_Arg:ZPbZXHajAeoLy5UsiD2MUOOtMQqu7g' https://www.reddit.com/api/v1/access_token
+
+
+
+
+
+
